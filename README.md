@@ -26,6 +26,7 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 # Developed by: Dharshini V
 # Register no: 212223040038
 
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -34,6 +35,7 @@ Firefox https://github.com/PriyankaAnnadurai/EXNO2DS/
 import seaborn as sns
 df=pd.read_csv("titanic_dataset.csv")
 df
+```
 ![image](https://github.com/user-attachments/assets/5ba63490-0329-464c-b2bc-7fac54495cca)
 
 
